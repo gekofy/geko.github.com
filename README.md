@@ -1,1 +1,3 @@
-# geko.github.com
+# geko
+
+# How to start
